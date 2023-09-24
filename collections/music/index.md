@@ -26,6 +26,8 @@ items:
  - schismtracker/schismtracker
  - chunkypixel/TIATracker
  - milkytracker/MilkyTracker
+ - mrbid/Borg-ER-0
+ - mrbid/Borg-ER-3
 display_name: Music
 created_by: jonrohan
 ---
